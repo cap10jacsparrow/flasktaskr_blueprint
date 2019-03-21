@@ -3,3 +3,4 @@ env/
 /.idea/
 htmlcov/
 .coverage
+/project/.idea
